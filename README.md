@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @h3xex
 - 👀 I’m interested in gamedev and programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 
 <!---
 h3xex/h3xex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
